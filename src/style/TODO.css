@@ -1,0 +1,20 @@
+table {
+  margin-top: 10px;
+}
+th {
+  cursor: pointer;
+  text-align: center;
+}
+
+td {
+  text-align: center;
+}
+
+.todo {
+  margin-top: 50px;
+}
+
+.button:hover {
+  color: white;
+  background-color: rgb(175, 8, 8) !important;
+}
